@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+archive
+data/*
+doc/SitesList.ods
+log/*
+plot/*

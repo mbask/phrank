@@ -1,0 +1,9 @@
+"product","band","ML_unit","ML_bit_type","ML_fill_value","ML_valid_range_min","ML_valid_range_max","ML_by_scale_factor"
+"MOD13Q1","250m_16_days_NDVI","NDVI","16-bit signed integer",-3000,-2000,10000,0.0001
+"MOD13Q1","250m_16_days_EVI","EVI","16-bit signed integer",-3000,-2000,10000,0.0001
+"MOD13Q1","250m_16_days_VI_Quality","Bits","16-bit signed integer",65535,0,65534,1
+"MOD13Q1","250m_16_days_pixel_reliability","Rank","8-bit signed integer",-1,0,4,1
+"MOD13Q1","250m_16_days_composite_day_of_the_year","Day of year","16-bit signed integer",-1,1,366,
+"FluxData","s1_s2_s3_NEEst_fMDS","gC m-2 day-1","16-bit signed integer",-99999,-20000,20000,0.0001
+"FluxData","s1_s2_s3_GPPst_MDS","gC m-2 day-1","16-bit signed integer",-99999,-20000,20000,0.0001
+"FluxData","s1_s2_s3_DoY","Day of year","16-bit signed integer",-1,1,366,
